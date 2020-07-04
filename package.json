@@ -1,0 +1,13 @@
+{
+  "name": "custom-for-each",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array-looping.js",
+  "scripts": {
+    "start": "node custom-for-each.js",
+    "test": "node custom-for-each.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
